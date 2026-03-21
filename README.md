@@ -27,7 +27,7 @@ Repositório com passos e configurações realizadas no LAB-A05 para o Microsoft
 - Configuração de regras de email e encaminhamento
 
 ## Passos Detalhados
-Para detalhes de cada passo, consulte os [exercícios do LAB-A05](link-para-os-exercícios).
+Para detalhes de cada passo, consulte os [exercícios do LAB-A05](https://github.com/Simao-crisma/N3-MS900-DESAFIO-OFICIAL3/blob/main/EXERCICIO.MD).
 
 ## Contribuições
 Sugestões e contribuições são bem-vindas!
