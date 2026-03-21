@@ -1,4 +1,3 @@
-# N3-MS900-DESAFIO-OFICIAL3
 
 # LAB-A05: Configuração do Microsoft 365
 
